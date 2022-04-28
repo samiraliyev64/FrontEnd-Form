@@ -1,0 +1,72 @@
+.Name input{
+    width:300px;
+    height:30px;
+    text-align: left;
+    padding:5px;
+}
+.required::after{
+    content: '*';
+    color: red;
+}
+.Email input{
+    width:618px;
+    height:30px;
+    text-align: left;
+    padding:5px;
+}
+
+.CompanyName input{
+    width:618px;
+    height:30px;
+    text-align: left;
+    padding:5px;
+    margin-top:10px;
+}
+
+.CompanyWebsite input{
+    width:618px;
+    height:30px;
+    text-align: left;
+    padding:5px;
+    margin-top:5px;
+}
+.first{
+    width:618px;
+    height:30px;
+    text-align: left;
+    padding:5px;
+    margin-top:5px;
+}
+.second{
+    width:300px;
+    height:30px;
+    text-align: left;
+    padding:5px;
+    margin-top:5px;
+}
+
+.third{
+    width:308px;
+    height:30px;
+    text-align: left;
+    padding:5px;
+    margin-top:5px;
+}
+
+#myButton{
+    width:635px;
+    height:40px;
+    background-color:blueviolet;
+    border:1px solid blueviolet;
+    border-radius:1px;
+    color:white;
+    font-weight:10px;
+}
+
+#myButton:hover{
+    background-color: rgb(95, 73, 116);
+}
+
+#sA{
+    width:180px;
+}
